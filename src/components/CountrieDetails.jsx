@@ -28,6 +28,8 @@ const CountrieDetails = ({ allCountries }) => {
       <hr />
 
       <h3>Area: {oneCountry[0].area}</h3>
+      <br />
+      <hr />
     </>
   );
 };
